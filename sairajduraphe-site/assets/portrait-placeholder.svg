@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Sairaj Duraphe brand monogram">
+<rect width="800" height="1000" fill="#3046FF"/>
+<circle cx="640" cy="170" r="260" fill="#CFCBFF" opacity=".22"/>
+<circle cx="120" cy="880" r="300" fill="#3EE0B0" opacity=".28"/>
+<g fill="none" stroke="#fff" stroke-opacity=".28" stroke-width="3"><path d="M0 330H260L330 400H800"/><path d="M0 560H180L260 640H520L600 560H800"/><path d="M0 760H340L400 820H800"/></g>
+<g fill="#fff"><circle cx="260" cy="330" r="12"/><circle cx="520" cy="640" r="12"/><circle cx="340" cy="760" r="12"/></g>
+<text x="400" y="610" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="330" fill="#fff" letter-spacing="-16">SD</text>
+<circle cx="640" cy="420" r="26" fill="#3EE0B0"/>
+</svg>

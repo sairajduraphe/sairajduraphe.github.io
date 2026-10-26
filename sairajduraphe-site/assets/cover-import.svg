@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" font-family="Segoe UI, Arial, sans-serif" role="img" aria-label="Illustration of an import web app with import types, a file drop zone and a preview, dry run, apply sequence">
+<rect width="960" height="640" fill="#CFCBFF"/>
+<circle cx="880" cy="60" r="170" fill="#3046FF" opacity=".16"/><circle cx="60" cy="600" r="130" fill="#3EE0B0" opacity=".4"/>
+<g transform="translate(60 62)">
+<rect x="10" y="14" width="840" height="500" rx="24" fill="#0A1330" opacity=".15"/>
+<rect width="840" height="500" rx="24" fill="#fff"/>
+<path d="M24 0H190V500H24A24 24 0 0 1 0 476V24A24 24 0 0 1 24 0Z" fill="#0A1330"/>
+<rect x="24" y="26" width="34" height="34" rx="10" fill="#3046FF"/><circle cx="52" cy="34" r="4" fill="#3EE0B0"/>
+<text x="68" y="49" font-size="17" font-weight="700" fill="#fff">Console</text>
+<rect x="14" y="100" width="162" height="38" rx="11" fill="#3046FF"/><text x="34" y="125" font-size="15" font-weight="600" fill="#fff">Import</text>
+<text x="34" y="171" font-size="15" fill="#CFCBFF">Bulk upload</text><text x="34" y="209" font-size="15" fill="#CFCBFF">Export</text><text x="34" y="247" font-size="15" fill="#CFCBFF">Users</text>
+<text x="226" y="66" font-size="28" font-weight="800" fill="#0A1330">Run an import</text>
+<g font-size="14" font-weight="600">
+<rect x="226" y="92" width="92" height="34" rx="17" fill="#3046FF"/><text x="244" y="114" fill="#fff">Standard</text>
+<rect x="328" y="92" width="94" height="34" rx="17" fill="#EEF0FF"/><text x="345" y="114" fill="#0A1330">Attribute</text>
+<rect x="432" y="92" width="112" height="34" rx="17" fill="#EEF0FF"/><text x="450" y="114" fill="#0A1330">Media stack</text>
+<rect x="554" y="92" width="52" height="34" rx="17" fill="#EEF0FF"/><text x="569" y="114" fill="#0A1330">FFT</text>
+<rect x="616" y="92" width="100" height="34" rx="17" fill="#EEF0FF"/><text x="633" y="114" fill="#0A1330">File update</text></g>
+<rect x="226" y="154" width="580" height="104" rx="18" fill="#F5F6FF" stroke="#3046FF" stroke-width="2" stroke-dasharray="9 8"/>
+<rect x="252" y="184" width="40" height="44" rx="8" fill="#3EE0B0"/><path d="M262 203l8 8 14-16" stroke="#0A1330" stroke-width="4" fill="none" stroke-linecap="round"/>
+<text x="310" y="200" font-size="18" font-weight="700" fill="#0A1330">sample_products.xlsx</text><text x="310" y="224" font-size="14" fill="#5B6785">Template matches the chosen import type</text>
+<g transform="translate(226 296)"><circle cx="18" cy="18" r="18" fill="#3EE0B0"/><path d="M10 18l6 6 11-12" stroke="#0A1330" stroke-width="3.5" fill="none" stroke-linecap="round"/><text x="46" y="24" font-size="16" font-weight="600" fill="#0A1330">Preview</text>
+<rect x="132" y="16" width="74" height="4" rx="2" fill="#3EE0B0"/>
+<circle cx="242" cy="18" r="18" fill="#3EE0B0"/><path d="M234 18l6 6 11-12" stroke="#0A1330" stroke-width="3.5" fill="none" stroke-linecap="round"/><text x="270" y="24" font-size="16" font-weight="600" fill="#0A1330">Dry run</text>
+<rect x="354" y="16" width="74" height="4" rx="2" fill="#D6DAF0"/>
+<circle cx="466" cy="18" r="18" fill="#3046FF"/><text x="466" y="24" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">3</text><text x="494" y="24" font-size="16" font-weight="600" fill="#0A1330">Apply</text></g>
+<rect x="226" y="364" width="580" height="104" rx="18" fill="#fff" stroke="#E1E4F5" stroke-width="2"/>
+<text x="250" y="398" font-size="16" font-weight="700" fill="#0A1330">Dry run result</text>
+<rect x="250" y="412" width="96" height="30" rx="15" fill="#DDF7EE"/><text x="266" y="432" font-size="14" font-weight="600" fill="#0F7A50">0 errors</text>
+<rect x="356" y="412" width="116" height="30" rx="15" fill="#FFF1C9"/><text x="372" y="432" font-size="14" font-weight="600" fill="#8A5A00">3 warnings</text>
+<rect x="640" y="388" width="140" height="48" rx="24" fill="#3046FF"/><text x="710" y="418" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">Apply import</text>
+</g></svg>
