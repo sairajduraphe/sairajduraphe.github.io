@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" font-family="Segoe UI, Arial, sans-serif" role="img" aria-label="Illustration of a messy flat file on the left becoming a clean import sheet on the right through 14 rules">
+<rect width="960" height="640" fill="#0A1330"/>
+<circle cx="480" cy="320" r="250" fill="#3046FF" opacity=".16"/>
+<rect x="50" y="112" width="340" height="416" rx="22" fill="#1B2750"/>
+<text x="76" y="154" font-size="17" font-weight="700" fill="#CFCBFF">Amazon flat file</text>
+<g>
+<rect x="76" y="176" width="64" height="34" rx="6" fill="#FFD84D"/><rect x="150" y="182" width="64" height="34" rx="6" fill="#3A4A85"/><rect x="224" y="176" width="64" height="34" rx="6" fill="#3A4A85"/><rect x="298" y="190" width="64" height="34" rx="6" fill="#FF8A5C"/>
+<rect x="82" y="224" width="64" height="34" rx="6" fill="#3A4A85"/><rect x="156" y="232" width="64" height="34" rx="6" fill="#3A4A85"/><rect x="230" y="222" width="64" height="34" rx="6" fill="#FF8A5C"/><rect x="304" y="236" width="64" height="34" rx="6" fill="#3A4A85"/>
+<rect x="76" y="276" width="64" height="34" rx="6" fill="#3A4A85"/><rect x="150" y="272" width="64" height="34" rx="6" fill="#FFD84D"/><rect x="224" y="280" width="64" height="34" rx="6" fill="#3A4A85"/><rect x="298" y="274" width="64" height="34" rx="6" fill="#3A4A85"/>
+<rect x="84" y="326" width="64" height="34" rx="6" fill="#3A4A85"/><rect x="158" y="322" width="64" height="34" rx="6" fill="#FF8A5C"/><rect x="232" y="330" width="64" height="34" rx="6" fill="#3A4A85"/><rect x="306" y="324" width="64" height="34" rx="6" fill="#3A4A85"/>
+<rect x="76" y="376" width="64" height="34" rx="6" fill="#3A4A85"/><rect x="150" y="380" width="64" height="34" rx="6" fill="#3A4A85"/><rect x="224" y="374" width="64" height="34" rx="6" fill="#FFD84D"/><rect x="298" y="382" width="64" height="34" rx="6" fill="#3A4A85"/>
+<rect x="80" y="428" width="64" height="34" rx="6" fill="#3A4A85"/><rect x="154" y="426" width="64" height="34" rx="6" fill="#3A4A85"/><rect x="228" y="432" width="64" height="34" rx="6" fill="#3A4A85"/><rect x="302" y="426" width="64" height="34" rx="6" fill="#3A4A85"/></g>
+<text x="76" y="500" font-size="13" fill="#9AA6D6">Blank columns, repeated fields, shifted rows</text>
+<path d="M392 320H414M546 320H568" stroke="#3EE0B0" stroke-width="5" stroke-linecap="round"/><path d="M558 308l14 12-14 12" stroke="#3EE0B0" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="480" cy="320" r="62" fill="#3046FF"/><text x="480" y="326" text-anchor="middle" font-size="44" font-weight="800" fill="#fff">14</text><text x="480" y="352" text-anchor="middle" font-size="15" font-weight="600" fill="#CFCBFF">rules</text>
+<rect x="570" y="112" width="340" height="416" rx="22" fill="#fff"/>
+<text x="596" y="154" font-size="17" font-weight="700" fill="#0A1330">Import sheet</text>
+<g><rect x="596" y="176" width="64" height="34" rx="6" fill="#3046FF"/><rect x="670" y="176" width="64" height="34" rx="6" fill="#3046FF"/><rect x="744" y="176" width="64" height="34" rx="6" fill="#3046FF"/><rect x="818" y="176" width="64" height="34" rx="6" fill="#3046FF"/>
+<g fill="#EEF0FF"><rect x="596" y="220" width="64" height="34" rx="6"/><rect x="670" y="220" width="64" height="34" rx="6"/><rect x="744" y="220" width="64" height="34" rx="6"/><rect x="818" y="220" width="64" height="34" rx="6"/>
+<rect x="596" y="264" width="64" height="34" rx="6"/><rect x="670" y="264" width="64" height="34" rx="6"/><rect x="744" y="264" width="64" height="34" rx="6"/><rect x="818" y="264" width="64" height="34" rx="6"/>
+<rect x="596" y="308" width="64" height="34" rx="6"/><rect x="670" y="308" width="64" height="34" rx="6"/><rect x="744" y="308" width="64" height="34" rx="6"/><rect x="818" y="308" width="64" height="34" rx="6"/>
+<rect x="596" y="352" width="64" height="34" rx="6"/><rect x="670" y="352" width="64" height="34" rx="6"/><rect x="744" y="352" width="64" height="34" rx="6"/><rect x="818" y="352" width="64" height="34" rx="6"/>
+<rect x="596" y="396" width="64" height="34" rx="6"/><rect x="670" y="396" width="64" height="34" rx="6"/><rect x="744" y="396" width="64" height="34" rx="6"/><rect x="818" y="396" width="64" height="34" rx="6"/></g></g>
+<rect x="596" y="452" width="286" height="40" rx="20" fill="#DDF7EE"/><path d="M618 472l7 7 12-14" stroke="#0F7A50" stroke-width="3.5" fill="none" stroke-linecap="round"/><text x="650" y="478" font-size="15" font-weight="700" fill="#0F7A50">Every value in its own row</text>
+</svg>

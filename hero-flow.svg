@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+<g fill="none" stroke="#fff" stroke-opacity=".16" stroke-width="2">
+<path d="M0 140H300L360 200H700L760 140H1200"/><path d="M0 330H180L250 400H520L590 330H1200"/>
+<path d="M0 520H420L480 580H820L880 520H1200"/><path d="M0 700H260L320 640H980L1040 700H1200"/>
+<path d="M300 0V140M700 200V330M520 400V520M820 580V700"/></g>
+<g fill="#fff" fill-opacity=".3"><circle cx="360" cy="200" r="7"/><circle cx="760" cy="140" r="7"/><circle cx="250" cy="400" r="7"/><circle cx="590" cy="330" r="7"/><circle cx="480" cy="580" r="7"/><circle cx="880" cy="520" r="7"/><circle cx="320" cy="640" r="7"/></g>
+<circle cx="1040" cy="700" r="12" fill="#3EE0B0"/><circle cx="760" cy="140" r="12" fill="#3EE0B0" fill-opacity=".8"/>
+</svg>
